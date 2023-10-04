@@ -1,0 +1,3 @@
+/home/mahammadibncarlton/Dev/portfolio/cpp/projectFour/build/CMakeFiles/wordOccurenceApp.dir
+/home/mahammadibncarlton/Dev/portfolio/cpp/projectFour/build/CMakeFiles/edit_cache.dir
+/home/mahammadibncarlton/Dev/portfolio/cpp/projectFour/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/wordOccurenceApp.dir/main.cpp.o -o wordOccurenceApp 
